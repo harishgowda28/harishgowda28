@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @harishgowda28
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Harish Gowda 
+- 👀 I’m interested in coding 
+- 🌱 I’m currently working as a freelancer 
+- 💞️ I’m looking to collaborate with part-time freelancing 
+- 📫 How to reach me ->harishharishgowda42@gmail.com
 
 <!---
 harishgowda28/harishgowda28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
