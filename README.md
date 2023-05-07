@@ -2,8 +2,9 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently working as a freelancer 
 - 💞️ I’m looking to collaborate with part-time freelancing 
-- 📫 How to reach me ->harishharishgowda42@gmail.com
-
+- 📫 How to reach me 
+->harishharishgowda42@gmail.com
+DM ->https://instagram.com/_harish.gowda?igshid=NTc4MTIwNjQ2YQ==
 <!---
 harishgowda28/harishgowda28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
