@@ -45,7 +45,7 @@ I would like to contribute these skills as a freelancer.</p>
 				<input type="text" id="name" name="name"><br>
 
 				<label for="email">Email:</label>
-				<input type="email" id="email" name="email"><br>
+				<input type="email" id="harishharishgowda42@gmail.com" name="Harish Gowda"><br>
 
 				<label for="message">Message:</label>
 				<textarea id="message" name="message"></textarea><br>
