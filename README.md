@@ -6,7 +6,7 @@
 </head>
 <body>
 	<header>
-		<h1>My Name</h1>
+		<h1>Harish Gowda R</h1>
 		<nav>
 			<ul>
 				<li><a href="#about">About</a></li>
@@ -18,7 +18,8 @@
 	<main>
 		<section id="about">
 			<h2>About Me</h2>
-			<p>Write a short bio about yourself here.</p>
+			<p>I'm a certified software developer.
+I would like to contribute these skills as a freelancer.</p>
 		</section>
 		<section id="projects">
 			<h2>My Projects</h2>
